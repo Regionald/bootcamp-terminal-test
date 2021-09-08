@@ -1,0 +1,26 @@
+{
+  "name": "bootcamp_terminal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countAllFromTown.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Regionald/bootcamp-terminal-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Regionald/bootcamp-terminal-test/issues"
+  },
+  "homepage": "https://github.com/Regionald/bootcamp-terminal-test#readme",
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
