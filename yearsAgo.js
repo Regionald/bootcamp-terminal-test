@@ -1,0 +1,1 @@
+module.exports=(int)=>new Date().getFullYear()-int;
